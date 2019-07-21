@@ -1,0 +1,7 @@
+Buy commands:
+show -- Shows the list of all auctions
+bid auctionID amount -- Bids on auction with specified auction ID
+
+Seller commands: 
+create  startBid minBid description -- Creates a bid with the specified constraints and description
+close auctionId -- Closes the bid of the specified id and declares the winner
